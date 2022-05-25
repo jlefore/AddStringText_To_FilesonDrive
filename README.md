@@ -1,6 +1,4 @@
-# AddStringText_To_FilesonDrive
-*I average around 20 invoices per month.
-*I use this code after i create my pdf invoices (raw) to add a descriptive string of text at the end of each invoice pdf.
+- I use this code after i create my pdf invoices (raw) to add a descriptive string of text at the end of each invoice pdf.
 *The invoices from the TimeSolv software extract very little info for the pdf invoice. 
 *For example, a raw pdf could be 'Client1_Invoice-1'. This is not descriptive enough. 
 *I prefer to add the 'MonthYear_MyCo.Name_Today'sDate' at the end of the raw pdf name above.
